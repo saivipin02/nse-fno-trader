@@ -1,0 +1,11 @@
+{
+  "name": "nse-fno-trader",
+  "description": "7 Claude skills for intraday trading in NSE F&O stocks (cash shares, Zerodha Kite): scan the F&O list, track NSE announcements, time entries and exits, replay outcomes, size and risk-check every trade.",
+  "version": "1.0.0",
+  "author": { "name": "saivipin02" },
+  "homepage": "https://github.com/saivipin02/nse-fno-trader",
+  "repository": "https://github.com/saivipin02/nse-fno-trader",
+  "license": "MIT",
+  "keywords": ["claude-skills", "nse", "india", "fno", "intraday", "opening-range-breakout", "zerodha"],
+  "skills": "./"
+}

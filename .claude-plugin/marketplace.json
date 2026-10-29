@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "nse-fno-trader",
+  "description": "NSE F&O intraday skill pack for Claude, based on day-trader-skill",
+  "owner": { "name": "saivipin02" },
+  "plugins": [
+    {
+      "name": "nse-fno-trader",
+      "description": "Seven Claude skills for intraday trading in NSE F&O stocks: a chart scanner, an NSE news and announcements monitor, an entry timer, an exit planner with NSE tick rounding, a time machine, a budget manager that writes Zerodha Kite orders, and a risk manager with a trade log. Nothing places orders.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/saivipin02/nse-fno-trader"
+    }
+  ]
+}
